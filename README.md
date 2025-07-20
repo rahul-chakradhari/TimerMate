@@ -105,3 +105,6 @@ npm install
 npm start
 App will be live on: https://timer-mate.netlify.app/
 
+👨‍💻 Developed By
+Rahul Chakradhari
+LinkedIn (https://www.linkedin.com/in/rahul-chakradhari-17a437217/)
