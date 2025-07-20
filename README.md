@@ -1,4 +1,4 @@
- TimerMate
+ **<b>TimerMate</b>**
 
 **TimerMate** is a customizable productivity timer app built with React Native. It allows users to create and manage multiple timers grouped by categories like "Study", "Workout", or "Break". Designed with clean UI/UX and minimal dependencies, it features progress tracking, local storage, grouped actions, and a timer history log — making it the perfect tool for those who follow time-blocking or Pomodoro-style productivity.
 
