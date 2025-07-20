@@ -84,6 +84,11 @@ Build a React Native app that allows users to create, manage, and interact with 
 - React Native CLI
 - Android Studio / Xcode for emulator or physical device
 
+  
+### Screenshots
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e1ea4792-aa06-41b3-8390-be4e63a3261e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cce7c298-4788-4048-80f0-9a7c9811a739" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/059d48bf-5667-489e-a03d-e08163420607" />
 ### Installation
 
 ```bash
